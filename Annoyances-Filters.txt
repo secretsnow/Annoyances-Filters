@@ -1,0 +1,56 @@
+[Adblock Plus 2.0]
+! Title: Annoyances-Filters by SecretSnow
+! Expires: Never
+! Version: 1
+! Homepage: https://github.com/secretsnow/Annoyances-Filters
+! Description: This filter disables various annoyances
+!-------------------------------------------------------------------------------
+
+! Snow - Particle Effects
+
+/jquery.snow.js
+/plugins/holiday-snow/*
+/plugins/let-it-snow/*
+/snowstorm*.js
+/snow*.js
+
+! Smooth Scrolling
+
+/jquery.nicescroll*.js
+/jquery.smoothscroll*.js
+/jquery.smooth-scroll*.js
+/jquery-smoothscroll*.js
+/jquery-smooth-scroll*.js
+/nicescroll*.js
+/smoothscroll*.js
+/smooth-scroll*.js
+/mousewheel-smooth-scroll
+/surbma-smooth-scroll
+themes/logistic/scripts/*.js
+/dexp-smoothscroll.js
+
+! Browser Rejection
+
+##div>#jr_overlay
+##div>#jr_wrap
+/plugins/advanced-browser-check/*
+
+! Right-Click Blockers
+
+/disablerightclick.
+/no-right-click-images-plugin/*$script
+/norightclick.
+/right-click-disable
+/plugins/CopyRightPro
+
+! Music Players - Auto-Play
+
+/streampad/sp-player.js
+/streampad/sp-player-tumblr.js
+/sp/sp-player.js
+scm.hypster.com/script.php
+scmplayer.net/js/*
+scmplayer.net/script.js
+flash-mp3-player.net/medias/*
+wikplayer.com/js/lib/soundmanager/*.js
+wikplayer.com/code.js
