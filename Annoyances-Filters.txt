@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Annoyances-Filters by SecretSnow
+! Title: Annoyances-Filters by secretsnow
 ! Expires: Never
 ! Version: 1
 ! Homepage: https://github.com/secretsnow/Annoyances-Filters
